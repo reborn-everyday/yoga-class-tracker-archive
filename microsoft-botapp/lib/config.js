@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const config = {
+    MicrosoftAppId: process.env.CLIENT_ID,
+    MicrosoftAppType: process.env.BOT_TYPE,
+    MicrosoftAppTenantId: process.env.TENANT_ID,
+    MicrosoftAppPassword: process.env.CLIENT_PASSWORD,
+};
+exports.default = config;
+//# sourceMappingURL=config.js.map

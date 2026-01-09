@@ -1,0 +1,15 @@
+{
+  "timezone": "Asia/Seoul",
+  "rules": [
+    {
+      "id": "lunch-yoga",
+      "title": "점심 요가",
+      "daysOfWeek": ["MON", "TUE", "THU"],
+      "startTime": "11:30",
+      "endTime": "12:20",
+      "capacity": 12,
+      "location": "401호 Idea Hub",
+      "notes": "공용/개인 요가매트 위치: 4층 북측 캐비넷"
+    }
+  ]
+}
